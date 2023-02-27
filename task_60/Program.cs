@@ -5,7 +5,7 @@
 //34(0,1,0) 41(0,1,1)
 //27(1,0,0) 90(1,0,1)
 //26(1,1,0) 55(1,1,1)
-using System; 
+using System;
 using static System.Console;
 Clear();
 
